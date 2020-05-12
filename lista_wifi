@@ -1,0 +1,2 @@
+#lista e salvar endpoint de acesso ao wifi
+netsh wlan export profile folder=c:\ key=clear
